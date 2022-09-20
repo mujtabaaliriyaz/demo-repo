@@ -1,6 +1,7 @@
-# Header w
+# Header 1
 This is a demo repo for git and github class
 
-## Header 3=3
+## Header 2
 This is a demo repo for git and github class
 
+### Header 3
