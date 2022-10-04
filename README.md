@@ -5,3 +5,5 @@ This is a demo repo for git and github class
 This is a demo repo for git and github class
 
 ### Header 3
+
+making some change to verify .ignore works or not
